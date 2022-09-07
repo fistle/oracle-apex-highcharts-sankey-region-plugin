@@ -24,23 +24,43 @@ Show credits - false to remove credits on bottom right
 Demo SQL
 -------------------------------
 select 'Brazil', 'Portugal',5 from DUAL
+
 UNION
+
 select 'Brazil', 'France',5 from DUAL
+
 UNION
+
 select 'Brazil', 'Spain',1 from DUAL
+
 UNION
+
 select 'Brazil', 'England',1 from DUAL
+
 UNION
+
 select 'Canada', 'Portugal',1 from DUAL
+
 UNION
+
 select 'Canada', 'France',5 from DUAL
+
 UNION
+
 select 'Canada', 'England',5 from DUAL
+
 UNION
+
 select 'Mexico', 'Portugal',5 from DUAL
+
 UNION
+
 select 'Mexico', 'France',5 from DUAL
+
 UNION
+
 select 'Mexico', 'Spain',5 from DUAL
+
 UNION
+
 select 'Mexico', 'England',5 from DUAL
