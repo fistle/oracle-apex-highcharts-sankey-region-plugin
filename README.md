@@ -11,14 +11,19 @@ Please note that commercial use of Highcharts requires a commercial license. For
 Instructions
 -------------------------------
 Install the plugin - Shared Components->plugins->import
+
 Create a new region with type highcharts-sankey
+
 Change source type to SQL Query then copy the demo SQL in.
+
 You can leave attributes blank to start as it will use default settings.
 
 Attributes
 -------------------------------
 Chart name - empty shows no title
+
 Series name - empty shows no series name
+
 Show credits - false to remove credits on bottom right
 
 Demo SQL
