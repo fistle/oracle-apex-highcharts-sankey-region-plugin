@@ -1,0 +1,36 @@
+{
+	"name": "ProgressStatus",
+	"version": "1.0",
+	"description": "Display a HighCharts dumbbell chart in your APEX app",
+	"keywords": ["progress"],
+	"homepage": "https://github.com/fistle/oracle-apex-progress-status-region-plugin.git",
+	"bugs": {
+		"url": "https://github.com/fistle/oracle-apex-progress-status-region-plugin/issues",
+		"email": "davielang@gmail.com"
+	},
+	"license": "MIT",
+	"commercial": "No",
+	"author": {
+		"name": "David Lang",
+		"email": "davielang@gmail.com",
+		"url": "https://oracleapexstuff.blogspot.com",
+		"twitter": "Davie_Lang"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fistle/oracle-apex-progress-status-region-plugin.git"
+	},
+	"oracle": {
+		"versions": ["11.2.0.1", "12.1.0.1"],
+		"apex": {
+			"versions": ["22.1.0"],
+			"plugin": {
+				"internalName": "GLASGOW-HIGHCHART-BARBELL",
+				"type": "region",
+				"demo": "https://kjwvivmv0n5reuj-apexkqor.adb.uk-london-1.oraclecloudapps.com/ords/r/test1/apex-plugins/highchart-dumbbell",
+                "previewImage" : "https://github.com/fistle/oracle-apex-progress-status-region-plugin/blob/main/progress-indicator.gif?raw=true'"
+
+			}
+		}
+	}
+}
